@@ -113,9 +113,10 @@ main{
     line-height: 1.4;
 }
 
-main h2{
+main section h2{
     text-align: center;
     margin-top: 30px;
+    width: 100%;
 }
 
 main section{
@@ -373,6 +374,7 @@ footer a:hover{
 
     main h2{
         font-size: 1.2rem;
+
     }
 
     article{
